@@ -1,0 +1,18 @@
+{
+    "name": "charl/mvc2",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "Components\\":"components/",
+            "Database\\":"database/",
+            "Models\\":"models/",
+            "Services\\":"services"
+        }
+    },
+    "authors": [
+        {
+            "name": "Charles"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,34 @@
+.toolbar{
+    background-color: rgb(255, 255, 255);
+}
+
+.content{
+    margin-top: 100px;
+}
+
+.profil-img{
+    width:150px;
+    height: 150px;
+}
+
+.hidden{
+   display: none;
+}
+
+
+
+#home{
+    background-color:#FFCC33;
+}
+
+#header{
+    height:60px;
+}
+
+.no-margin{
+    margin:0px !important;
+}
+.miniature-img{
+    height : 70px;
+    width: 70px;
+}
